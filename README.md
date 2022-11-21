@@ -1,6 +1,6 @@
 # Getting Started
 
-This project requires Node.JS with MongoDB and React.js
+This project requires Express.JS with MongoDB and React.js
 
 ## Running
 
